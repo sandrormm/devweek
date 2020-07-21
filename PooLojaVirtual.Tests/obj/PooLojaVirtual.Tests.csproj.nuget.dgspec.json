@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj": {}
+  },
+  "projects": {
+    "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
+        "projectName": "PooLojaVirtual.Core",
+        "projectPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
+        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+        "outputPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj",
+        "projectName": "PooLojaVirtual.Tests",
+        "projectPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj",
+        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+        "outputPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj": {
+                "projectPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
