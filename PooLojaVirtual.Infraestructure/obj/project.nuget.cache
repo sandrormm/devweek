@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hp2qdyYoIR9ZzfN1x/wd0zgMDavV/KqtdqQq8g2fsCzzjzu/YcqAJ2kN1rbDj7rVz2sNaX2ENYtmPYY3BjBU9Q==",
+  "dgSpecHash": "V8idnFp/yIQS1RYtzkGS6MmnWIAV2bMY1mpIJE14UGXarYbez6NQ1b48l2yrrXAdr9iA3m0+rI4EDFH+W+7T1Q==",
   "success": true,
-  "projectFilePath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Infraestructure\\PooLojaVirtual.Infraestructure.csproj",
+  "projectFilePath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Infraestructure\\PooLojaVirtual.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Developer\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Developer\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

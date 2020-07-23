@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
+      "projectUniqueName": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
       "projectName": "PooLojaVirtual.Core",
-      "projectPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
+      "projectPath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
       "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-      "outputPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\obj\\",
+      "outputPath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj": {}
+    "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj": {}
   },
   "projects": {
-    "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj": {
+    "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
+        "projectUniqueName": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
         "projectName": "PooLojaVirtual.Core",
-        "projectPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
+        "projectPath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj",
         "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\obj\\",
+        "outputPath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,14 +54,14 @@
         }
       }
     },
-    "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj": {
+    "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj",
+        "projectUniqueName": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj",
         "projectName": "PooLojaVirtual.Tests",
-        "projectPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj",
+        "projectPath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj",
         "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\obj\\",
+        "outputPath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,8 +75,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj": {
-                "projectPath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj"
+              "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj": {
+                "projectPath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Core\\PooLojaVirtual.Core.csproj"
               }
             }
           }

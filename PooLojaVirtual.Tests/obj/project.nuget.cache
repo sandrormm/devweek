@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BZJ2o5G/5nvGOqJC5FYBv7DYj5LkDyWZOTLtZv7spynf2j6bCaQai2Gr/x6WmQHm64oysYLgGHpXJ6BksOitZA==",
+  "dgSpecHash": "7Wmrwpkxg94mLxCNR39po6UkF0DVU2UDAoR24/6EYjp4QYplcBUStC/mfTN/CcnppTZz++vXxAR5pb/ai0sifg==",
   "success": true,
-  "projectFilePath": "d:\\bkp-info06\\Desenvolvimento\\Repos\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj",
+  "projectFilePath": "D:\\bkp-info06\\Desenvolvimento\\Repo\\PooLojaVirtual.Tests\\PooLojaVirtual.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Developer\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Developer\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
